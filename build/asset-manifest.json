@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/%7Breact-portfolio%7D/static/css/main.91c9d3e3.chunk.css",
+    "main.js": "/%7Breact-portfolio%7D/static/js/main.936e9ea2.chunk.js",
+    "main.js.map": "/%7Breact-portfolio%7D/static/js/main.936e9ea2.chunk.js.map",
+    "runtime-main.js": "/%7Breact-portfolio%7D/static/js/runtime-main.90091119.js",
+    "runtime-main.js.map": "/%7Breact-portfolio%7D/static/js/runtime-main.90091119.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/%7Breact-portfolio%7D/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b10e62c2.chunk.js": "/%7Breact-portfolio%7D/static/js/2.b10e62c2.chunk.js",
+    "static/js/2.b10e62c2.chunk.js.map": "/%7Breact-portfolio%7D/static/js/2.b10e62c2.chunk.js.map",
+    "static/js/3.5732c89d.chunk.js": "/%7Breact-portfolio%7D/static/js/3.5732c89d.chunk.js",
+    "static/js/3.5732c89d.chunk.js.map": "/%7Breact-portfolio%7D/static/js/3.5732c89d.chunk.js.map",
+    "index.html": "/%7Breact-portfolio%7D/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/%7Breact-portfolio%7D/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.91c9d3e3.chunk.css.map": "/%7Breact-portfolio%7D/static/css/main.91c9d3e3.chunk.css.map",
+    "static/js/2.b10e62c2.chunk.js.LICENSE.txt": "/%7Breact-portfolio%7D/static/js/2.b10e62c2.chunk.js.LICENSE.txt",
+    "static/media/Portfolio.css": "/%7Breact-portfolio%7D/static/media/background2.bccfdd4a.jpeg",
+    "static/media/App.css": "/%7Breact-portfolio%7D/static/media/pokeMemory.6f57ac52.png",
+    "static/media/david.c90f105a.JPG": "/%7Breact-portfolio%7D/static/media/david.c90f105a.JPG",
+    "static/media/resume.1e5dc7c7.pdf": "/%7Breact-portfolio%7D/static/media/resume.1e5dc7c7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90091119.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b10e62c2.chunk.js",
+    "static/css/main.91c9d3e3.chunk.css",
+    "static/js/main.936e9ea2.chunk.js"
+  ]
+}
