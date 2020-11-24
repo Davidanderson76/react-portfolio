@@ -19,7 +19,7 @@ function Portfolio() {
             <Card.Img onClick={()=> window.open("https://ultimate-note-taker.herokuapp.com/", "_blank")} className="cardOne" />
               <Card.Body className="cardText">
                 <Card.Title> Note Taker </Card.Title>
-                <Card.Text>
+                <Card.Text >
                 Here we have one of the best note taking applications on this side of the Mississippi. 
                 This note taking app will allow you to store your notes even after closing out of the browser.
                 </Card.Text>
