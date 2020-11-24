@@ -1,4 +1,5 @@
 import React from "react";
+import Spinner from 'react-bootstrap/Spinner'
 
 const headerStyle = {
   fontsize: "50px",
@@ -14,6 +15,11 @@ function Home() {
       </h1>
       <h4 className="hero-text"> Full Stack Developer </h4>
       <br></br>
+      <Spinner animation="grow" />
+      <Spinner animation="grow" />
+      <Spinner animation="grow" />
+      <Spinner animation="grow" />
+      <Spinner animation="grow" />
     </div>
   );
 }

@@ -28,7 +28,7 @@ body {
 .hero-image {
   background-image: url("./img/duluth.jpeg");
   background-color: #cccccc;
-  height: 600px;
+  height: 800px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -62,9 +62,14 @@ body {
 }
 
 .cardText {
-  background:  rgb(189, 151, 189);
+  background:  rgb(209, 177, 209);
+  
 }
 
+.text-muted:hover {
+  background:  rgb(219, 210, 219);
+  transform: scale(1.0); 
+}
 .cardOne {
   background-image: url("./img/noteTaker.png");
   height: 219px;

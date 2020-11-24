@@ -24,7 +24,7 @@ function Portfolio() {
                 This note taking app will allow you to store your notes even after closing out of the browser.
                 </Card.Text>
               </Card.Body>
-            <Card.Footer>
+            <Card.Footer className="text-muted">
               <small className="text-muted">Last updated 3 mins ago</small>
             </Card.Footer>
           </Card>
@@ -37,7 +37,7 @@ function Portfolio() {
                 Add expenses or deposits to your budget with or without a connection! 💵 💵 💵
                 </Card.Text>
               </Card.Body>
-            <Card.Footer>
+            <Card.Footer className="text-muted">
               <small className="text-muted">Last updated 3 mins ago</small>
             </Card.Footer>
           </Card>
@@ -55,7 +55,7 @@ function Portfolio() {
                 by name for employees within the company.
                 </Card.Text>
               </Card.Body>
-            <Card.Footer>
+            <Card.Footer className="text-muted">
               <small className="text-muted">Last updated 3 mins ago</small>
             </Card.Footer>
           </Card>
@@ -68,7 +68,7 @@ function Portfolio() {
                 Time to workout and get healthy while logging your process with this application! 🏋️
                 </Card.Text>
               </Card.Body>
-            <Card.Footer>
+            <Card.Footer className="text-muted">
               <small className="text-muted">Last updated 3 mins ago</small>
             </Card.Footer>
           </Card>
@@ -81,7 +81,7 @@ function Portfolio() {
                 Match your favorite Pokemon characters in this exciting memory game.
                 </Card.Text>
               </Card.Body>
-            <Card.Footer>
+            <Card.Footer className="text-muted">
               <small className="text-muted">Last updated 3 mins ago</small>
             </Card.Footer>
           </Card>

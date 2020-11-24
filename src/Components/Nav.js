@@ -8,6 +8,9 @@ function Nav() {
 
   return (
     <nav>
+      
+      <br></br>
+
       <ul className="nav-links">
         <Link style={navStyle} to="/">
           <li> D || A </li>
