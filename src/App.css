@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 6vh;
+  background: rgb(59, 53, 59);
+  color:  rgb(46, 44, 46);
+}
+
+.nav-links {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 450;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-image {
+  background-image: url("./img/duluth.jpeg");
+  background-color: #cccccc;
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
+
+.hero-text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color:rgb(37, 31, 37);
+  animation: mymove 5s infinite;
+}
+
+.bigtext {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color:rgb(185, 179, 190);
+  animation: mymove 5s infinite;
+}
+@keyframes mymove {
+  50% {text-shadow: 10px 20px 30px rgb(62, 93, 122);}
+}
+
+.footer {
+  display: inherit;
+  justify-content: space-around;
+  align-items: left;
+  min-height: 5vh;
+  background: rgb(59, 53, 59);
+  color: whitesmoke;
+}
+
+.cardText {
+  background:  rgb(189, 151, 189);
+}
+
+.cardOne {
+  background-image: url("./img/noteTaker.png");
+  height: 219px;
+  width: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
+
+.cardTwo {
+  background-image: url("./img/budgetApp.png");
+  height: 219px;
+  width: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
+
+.cardThree {
+  background-image: url("./img/employeeDirectory.png");
+  height: 219px;
+  width: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
+
+.cardFour {
+  background-image: url("./img/fitnessTracker.png");
+  height: 219px;
+  width: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
+
+.cardFive {
+  background-image: url("./img/pokeMemory.png");
+  height: 219px;
+  width: 160px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative ;
+}
