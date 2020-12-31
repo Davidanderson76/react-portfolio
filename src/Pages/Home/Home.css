@@ -1,0 +1,14 @@
+.homeBody {
+    font-size: large;
+}
+.davidHeader {
+    color: #f0ece2;
+}
+.mr-3 {
+    background-color: rgb(80, 76, 74);
+    color: white;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {box-shadow: 10px 20px 30px rgb(90, 90, 92);}
+  }
